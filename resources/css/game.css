@@ -1,0 +1,38 @@
+#emptyBlock, #iBlock, #zBlock, #sBlock, #lBlock, #jBlock, #oBlock, #tBlock{
+    -fx-pref-width: 30px;
+    -fx-pref-height: 30px;
+}
+
+#emptyBlock{
+    -fx-background-image: url("../img/empty.png");
+    -fx-border-color: #232323;
+    -fx-border-width: 1px;
+}
+
+#iBlock{
+    -fx-background-image: url("../img/cyan.png");
+}
+
+#zBlock{
+    -fx-background-image: url("../img/red.png");
+}
+
+#sBlock{
+    -fx-background-image: url("../img/green.png");
+}
+
+#lBlock{
+    -fx-background-image: url("../img/orange.png");
+}
+
+#jBlock{
+    -fx-background-image: url("../img/blue.png");
+}
+
+#oBlock{
+    -fx-background-image: url("../img/yellow.png");
+}
+
+#tBlock{
+    -fx-background-image: url("../img/purple.png");
+}
